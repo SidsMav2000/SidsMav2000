@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SidsMav2000
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Tableau
+- 👀 I’m inquisitive about Data Science
+- 🌱 I’m currently working with PowerBI
 - 💞️ I’m looking to collaborate on Business Analytics
 - 📫 How to reach me E-mail me @ siddharthvangari@gmail.com
 

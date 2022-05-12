@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SidsMav2000
 - 👀 I’m inquisitive about Data Science
 - 🌱 I’m currently working with PowerBI
-- 💞️ I’m looking to collaborate on Business Analytics
+- 💞️ I’m looking to collaborate on Business Analytics Role
 - 📫 How to reach me E-mail me @ siddharthvangari@gmail.com
 
 <!---
